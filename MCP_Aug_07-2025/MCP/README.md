@@ -20,6 +20,7 @@ Install all dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+#### Note: Switch on to MCP directory, before running any commands for this demo
 
 ### Step 1: Gmail API Setup
 
